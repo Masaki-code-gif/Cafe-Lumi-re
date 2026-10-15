@@ -1,0 +1,1 @@
+{"name":"cafe-lumiere-demo","version":"1.1.0","private":true,"description":"架空カフェの静的Webサイト","scripts":{"start":"node server.cjs","check":"node --check dist/assets/main.js && node --check server.cjs && node scripts/check.cjs"},"engines":{"node":">=18"}}
